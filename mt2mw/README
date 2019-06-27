@@ -7,6 +7,7 @@ Requirements:
     * Perl5
     * Alex Z's wikitools package - available on pypi
       <http://python-wikitools.googlecode.com>
+      https://pypi.org/project/wikitools/
     * psycopg2
     * HTML::WikiConverter perl module
     * Config::Simple perl module
